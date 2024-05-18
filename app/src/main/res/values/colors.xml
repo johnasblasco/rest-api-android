@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="uwuPink">#F875AA</color>
+    <color name="uwuPeach">#FFDFDF</color>
+    <color name="uwuWhite">#FFF6F6</color>
+    <color name="uwuBlue">#AEDEFC</color>
+    <color name="uwuPurple">#9600ff</color>
+    <color name="uwupurple2">#c973ff</color>
+    <color name="maroon">#A91D3A</color>
+</resources>
